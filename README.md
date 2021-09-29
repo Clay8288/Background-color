@@ -17,4 +17,5 @@ Simply code for change the background color on click
 ***
 Main technologies and libraries
 * [JS](https://example.com)
-
+* [HTML](https://example.com)
+* [CSS](https://example.com)
